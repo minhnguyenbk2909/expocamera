@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "expotest",
-    "slug": "expotest",
+    "name": "Nhom 3",
+    "slug": "bai-tap",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/bkicon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/bkicon.png",
@@ -25,11 +25,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.mahubleykontic.expotest"
+      "package": "com.nhom3.expocamera"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "owner": "mahubleykontic"
+    "extra": {
+      "eas": {
+        "projectId": "b17feb58-b0ac-4679-aae5-1a5a478ae19d"
+      }
+    }
   }
 }
